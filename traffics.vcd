@@ -1,0 +1,236 @@
+$date
+	Mon Jul 13 13:37:53 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module traffic_light_controller_tb $end
+$var wire 1 ! Y2 $end
+$var wire 1 " Y1 $end
+$var wire 1 # R2 $end
+$var wire 1 $ R1 $end
+$var wire 1 % G2 $end
+$var wire 1 & G1 $end
+$var reg 1 ' clk $end
+$var reg 1 ( reset $end
+$var reg 1 ) sensor $end
+$scope module uut $end
+$var wire 1 ' clk $end
+$var wire 1 ( reset $end
+$var wire 1 ) sensor $end
+$var parameter 3 * S0 $end
+$var parameter 3 + S1 $end
+$var parameter 3 , S2 $end
+$var parameter 3 - S3 $end
+$var parameter 3 . S4 $end
+$var parameter 3 / S5 $end
+$var reg 1 & G1 $end
+$var reg 1 % G2 $end
+$var reg 1 $ R1 $end
+$var reg 1 # R2 $end
+$var reg 1 " Y1 $end
+$var reg 1 ! Y2 $end
+$var reg 5 0 count [4:0] $end
+$var reg 3 1 state [2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b101 /
+b100 .
+b11 -
+b10 ,
+b1 +
+b0 *
+$end
+#0
+$dumpvars
+b0 1
+b0 0
+0)
+1(
+0'
+1&
+0%
+0$
+1#
+0"
+0!
+$end
+#5000
+1'
+#10000
+0'
+#15000
+1'
+#20000
+0'
+0(
+#25000
+b1 0
+1'
+#30000
+0'
+#35000
+b10 0
+1'
+#40000
+0'
+#45000
+b11 0
+1'
+#50000
+0'
+#55000
+b100 0
+1'
+#60000
+0'
+#65000
+b101 0
+1'
+#70000
+0'
+#75000
+b110 0
+1'
+#80000
+0'
+#85000
+b111 0
+1'
+#90000
+0'
+#95000
+b1000 0
+1'
+#100000
+0'
+#105000
+b1001 0
+1'
+#110000
+0'
+#115000
+b1010 0
+1'
+#120000
+0'
+1)
+#125000
+1"
+1#
+0&
+b1 1
+b0 0
+1'
+#130000
+0'
+#135000
+b1 0
+1'
+#140000
+0'
+#145000
+b10 0
+1'
+#150000
+0'
+#155000
+b11 0
+1'
+#160000
+0'
+#165000
+1$
+1#
+0"
+b10 1
+b0 0
+1'
+#170000
+0'
+#175000
+b1 0
+1'
+#180000
+0'
+#185000
+b10 0
+1'
+#190000
+0'
+#195000
+1%
+0#
+1$
+b11 1
+b0 0
+1'
+#200000
+0'
+#205000
+b1 0
+1'
+#210000
+0'
+#215000
+b10 0
+1'
+#220000
+0'
+0)
+#225000
+b11 0
+1'
+#230000
+0'
+#235000
+b100 0
+1'
+#240000
+0'
+#245000
+b101 0
+1'
+#250000
+0'
+#255000
+b110 0
+1'
+#260000
+0'
+#265000
+b111 0
+1'
+#270000
+0'
+#275000
+b1000 0
+1'
+#280000
+0'
+#285000
+b1001 0
+1'
+#290000
+0'
+#295000
+b1010 0
+1'
+#300000
+0'
+#305000
+b1011 0
+1'
+#310000
+0'
+#315000
+b1100 0
+1'
+#320000
+0'
